@@ -11,6 +11,7 @@
 ### Philosophy
 `Work Smart, not Hard`
 
+### Profile
 - Software Engineer with 7+ years of experience in the IT Field with a solid background and practice in Production Support systems with different types of technologies and industries.
 - Devops Enthusiast that tries to automate as much as possible.
 - Quick learner, High energy & Self Starter
