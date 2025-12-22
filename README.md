@@ -4,10 +4,10 @@ Just a guy doing random things in tech like Neovim and Observability or DevOPs r
 Occassional streamer over at Twitch.
 
 ## Info
-- 🔭 I’m currently working on ... IaC, Random Coding and Neovim Plugins
+- 🔭 I’m currently working on ... Observability!
 - 🌱 I’m currently learning ...  Golang!
 - 👯 I’m looking to collaborate on ... Observability Solutions (Logs, Traces, Metrics)
 - 💬 Ask me about ... Anything really
 - 📫 How to reach me: ... https://mvaldes.dev 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvaldes14)](https://github.com/anuraghazra/github-readme-stats)
