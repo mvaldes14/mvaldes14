@@ -9,5 +9,3 @@ Occassional streamer over at Twitch.
 - 👯 I’m looking to collaborate on ... Observability Solutions (Logs, Traces, Metrics)
 - 💬 Ask me about ... Anything really
 - 📫 How to reach me: ... https://mvaldes.dev 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvaldes14)]
